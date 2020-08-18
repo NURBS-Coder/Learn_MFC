@@ -1,0 +1,27 @@
+﻿生成启动时间为 2019/7/25 17:28:46。
+     1>项目“E:\Project\MFCLearning\MFC_ListBox\MFC_ListBox\MFC_ListBox.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\MFC_ListBox.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         D:\Application Program\Visual\VS2012\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\MFC_ListBox.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MFC_ListBox.cpp MFC_ListBoxDlg.cpp
+         MFC_ListBox.cpp
+         MFC_ListBoxDlg.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\MFC_ListBox.res" MFC_ListBox.rc 
+       Link:
+         D:\Application Program\Visual\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Project\MFCLearning\MFC_ListBox\Release\MFC_ListBox.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Application Program\Visual\VS2012\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\Project\MFCLearning\MFC_ListBox\Release\MFC_ListBox.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Project\MFCLearning\MFC_ListBox\Release\MFC_ListBox.lib" /MACHINE:X86 /SAFESEH Release\MFC_ListBox.res
+         Release\MFC_ListBox.obj
+         Release\MFC_ListBoxDlg.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         MFC_ListBox.vcxproj -> E:\Project\MFCLearning\MFC_ListBox\Release\MFC_ListBox.exe
+       FinalizeBuildStatus:
+         正在删除文件“Release\MFC_ListBox.unsuccessfulbuild”。
+         正在对“Release\MFC_ListBox.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\Project\MFCLearning\MFC_ListBox\MFC_ListBox\MFC_ListBox.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.65

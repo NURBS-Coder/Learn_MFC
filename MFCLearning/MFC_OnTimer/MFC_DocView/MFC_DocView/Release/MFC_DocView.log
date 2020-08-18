@@ -1,0 +1,36 @@
+﻿生成启动时间为 2019/7/26 15:18:56。
+     1>项目“E:\Project\MFCLearning\MFC_DocView\MFC_DocView\MFC_DocView.vcxproj”在节点 2 上(Build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“E:\Project\MFCLearning\MFC_DocView\Release\”。
+       InitializeBuildStatus:
+         正在创建“Release\MFC_DocView.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Application Program\Visual\VS2012\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\MFC_DocView.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Application Program\Visual\VS2012\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\MFC_DocView.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MainFrm.cpp MFC_DocView.cpp MFC_DocViewDoc.cpp MFC_DocViewView.cpp Student.cpp
+         MainFrm.cpp
+         MFC_DocView.cpp
+         MFC_DocViewDoc.cpp
+         MFC_DocViewView.cpp
+         Student.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IRelease\ /nologo /fo"Release\MFC_DocView.res" MFC_DocView.rc 
+       Link:
+         D:\Application Program\Visual\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Project\MFCLearning\MFC_DocView\Release\MFC_DocView.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Application Program\Visual\VS2012\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\Project\MFCLearning\MFC_DocView\Release\MFC_DocView.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Project\MFCLearning\MFC_DocView\Release\MFC_DocView.lib" /MACHINE:X86 /SAFESEH Release\MFC_DocView.res
+         Release\MainFrm.obj
+         Release\MFC_DocView.obj
+         Release\MFC_DocViewDoc.obj
+         Release\MFC_DocViewView.obj
+         Release\stdafx.obj
+         Release\Student.obj
+         正在生成代码
+         已完成代码的生成
+         MFC_DocView.vcxproj -> E:\Project\MFCLearning\MFC_DocView\Release\MFC_DocView.exe
+       FinalizeBuildStatus:
+         正在删除文件“Release\MFC_DocView.unsuccessfulbuild”。
+         正在对“Release\MFC_DocView.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\Project\MFCLearning\MFC_DocView\MFC_DocView\MFC_DocView.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.12

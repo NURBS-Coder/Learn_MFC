@@ -1,0 +1,23 @@
+﻿生成启动时间为 2019/7/25 17:27:04。
+     1>项目“E:\Project\MFCLearning\MFC_ListBox\MFC_ListBox\MFC_ListBox.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\MFC_ListBox.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\MFC_ListBox.res" MFC_ListBox.rc 
+       Link:
+         D:\Application Program\Visual\VS2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Project\MFCLearning\MFC_ListBox\Debug\MFC_ListBox.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Application Program\Visual\VS2012\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\Project\MFCLearning\MFC_ListBox\Debug\MFC_ListBox.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Project\MFCLearning\MFC_ListBox\Debug\MFC_ListBox.lib" /MACHINE:X86 Debug\MFC_ListBox.res
+         Debug\MFC_ListBox.obj
+         Debug\MFC_ListBoxDlg.obj
+         Debug\stdafx.obj
+         MFC_ListBox.vcxproj -> E:\Project\MFCLearning\MFC_ListBox\Debug\MFC_ListBox.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\MFC_ListBox.unsuccessfulbuild”。
+         正在对“Debug\MFC_ListBox.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\Project\MFCLearning\MFC_ListBox\MFC_ListBox\MFC_ListBox.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.38
